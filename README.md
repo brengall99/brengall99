@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, welcome to my page!
+
+👋 About Me
+
+I'm Brendan, a data analyst from Co. Leitrim in Ireland, currently based in Munich! I specialize in data based projects, and web applications.
+
+🌱 What I'm Learning
+- Python
+- GCP, AWS
+
+🤝 Let's Connect!
+Feel free to explore my projects, provide feedback, and connect for collaborations!
 
 <!--
 **brengall99/brengall99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
