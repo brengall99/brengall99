@@ -1,27 +1,33 @@
-## Hi there, welcome to my page!
+## Hello there, welcome to my page!
 
-👋 About Me
+# 👋 About Me
+I'm Brendan, a data analyst and sales engineer from Co. Leitrim, Ireland who's currently based in Munich, Germany! I have a background in Physics and Mathematics, with a degree from Maynooth University and have done many courses on data analysis. I'm always trying to learn, always building, and always curious!
 
-I'm Brendan, a data analyst from Co. Leitrim in Ireland, currently based in Munich! I specialize in data based projects, and web applications.
+# 🔭 I’m currently working on...
+An iOS based social media application targetted at travellers! 
 
-🌱 What I'm Learning
-- Python
-- GCP, AWS
+## 💼 What I Do
+I work with Python, SQL, and modern data libraries to extract insights, automate reports, and create compelling visual dashboards. I use EDA techniques to clean, analyze, and visualize data, uncover patterns, detect anomalies, and generate hypotheses. I'm also particularly interested in finace, and I’ve built tools to track stock portfolios, analyze financial news sentiment, and track and visualise every single purchase I make day to day, to see where every cent goes!  
 
-🤝 Let's Connect!
-Feel free to explore my projects, provide feedback, and connect for collaborations!
+# 🛠️ My tools
+- Python, R, SQL, HTML, CSS.
+- Pandas, Numpy, Streamlit, Plotly, Matplotlib, Seaborn.
+- BigQuery, DynamoDB, MongoDB, MySQL.
+- Excel, Google Sheets.
+- AWS (S3, Lambda, Glue, EC2, IAM, Athena), GCP.
+- JupyterLab, VSCode, RStudio, WordPress, Davinci Resolve.
+- Windows, MacOS, Linux/Ubuntu.
 
-<!--
-**brengall99/brengall99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 What I'm Learning
+I'm always trying to learn and deepen my knowlege, currently I'm working on:
+- Python, SQL, and PostgreSQL.
+- GCP and AWS.
+- Modern AI design tools.
+- Data Analysis & Engineering.
+- Deutsch (Doing my best to get to B2!).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤝 Let's Connect!
+Feel free to explore my projects, provide feedback, and follow me on any of the below!
+- 📸 [Instagram](https://instagram.com/bren.gall)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brengall99/)
+- 📬 [Email Me!](mailto:brengall99@gmail.com)
