@@ -14,7 +14,6 @@ An iOS based social media application targetted at travellers!
 - Windows, MacOS, Linux/Ubuntu.
 
 ### 🤝 Let's Connect!
-Feel free to explore my projects, provide feedback, and follow me on any of the below!
 - 📸 [Instagram](https://instagram.com/bren.gall)
 - 💼 [LinkedIn](https://www.linkedin.com/in/brengall99/)
 - 📬 [Email Me!](mailto:brengall99@gmail.com)
