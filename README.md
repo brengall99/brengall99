@@ -8,9 +8,8 @@ An iOS based social media application targetted at travellers!
 - Python, R, SQL, HTML, CSS.
 - Pandas, Numpy, Streamlit, Plotly, Matplotlib, Seaborn.
 - BigQuery, DynamoDB, MongoDB, MySQL, PostgreSQL.
-- Excel, Google Sheets.
+- Excel, Google Sheets, Tableau.
 - AWS (S3, Lambda, Glue, EC2, IAM, Athena), GCP.
-- JupyterLab, VSCode, RStudio, WordPress, Davinci Resolve.
 - Windows, MacOS, Linux/Ubuntu.
 
 ### 🤝 Let's Connect!
